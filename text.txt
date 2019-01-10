@@ -1,0 +1,7 @@
+This text will appear in the terminal. You can expand on it
+
+
+
+and have multiple lines. The length of the text does not matter, and neither does the length of a single line, the text will automatically wrap to the size of the screen.
+
+After the specified text is done writing, you can enter your own text to simulate a real terminal. Commands don't work, unfortunately.
